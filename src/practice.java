@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class practice {
+import java.util.*;
+public class practice {
+
+    public static void main(String[] args) {
+
+        for(int i=10;i>=0;i-=2) {
+            System.out.println(i);
+        }
+        System.out.println("happy Coding!");
+    }
 }
